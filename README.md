@@ -1,3 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <h1 align="left">💫 About Me:</h1>
 
 
@@ -8,6 +16,7 @@
 - 🌱 I’m currently learning :<br> **Advanced DSA and Figma plugins**
 
 - 👯 I’m looking to collaborate on :<br>**ui/ux designing and frontend development**
+
 
 - 💬 Ask me about :<br>**DSA,Javascript,any frontend languages and UI/UX designing**
 
