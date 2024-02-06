@@ -20,7 +20,7 @@
 
 - 💬 Ask me about :<br>**DSA,Javascript,any frontend languages and UI/UX designing**
 
-- ⚡ Fun fact :<br>**I love to make graphics or web design and learning new information.**
+- ⚡ Fun fact :<br>**I love to make graphics or web design and learning something new.**
 
 <h3 align="left"> 🌐Connect with me:</h3>
 <p align="left">
